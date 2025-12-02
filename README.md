@@ -1,5 +1,5 @@
 # Клонируйте репозиторий
-git clone "ВАША_ССЫЛКА_НА_РЕПОЗИТОРИЙ"
+git clone https://github.com/iwenff/test.git
 
 # Перейдите в папку проекта
 cd frontend
